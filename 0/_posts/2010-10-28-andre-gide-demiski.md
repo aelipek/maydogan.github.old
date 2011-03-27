@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Andre Gide demiş ki...
+title: Bu da bi şey  !! 
 ---
 
-"Başka birinin sizin kadar iyi yapabileceği birşeyi bırakın başkası yapsın, siz yapmayın..."
+" Her şeyin başlangıcı küçüktür..."
