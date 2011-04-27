@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 1.bölüm ilk test
+title: 1.bölüm  test
 ---
 
-Gelsin bilgiler!!
+1. bölüm neden gelmiyorr!! :(
