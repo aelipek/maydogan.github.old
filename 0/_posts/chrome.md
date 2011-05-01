@@ -4,7 +4,7 @@ title: Ubuntu'da Google Chrome Kurulumu
 ---
 
 Google Chrome, Firefox'un yerini alamaz ama ikinci bir tarayıcıya ihtiyaç
-duyulduğunda Chrome tercih edebilebilir.Uç birimi açıp verilen komutlar doğrultusunda kurabiliriz.
+duyulduğunda Chromium tercih edebilebilir.Uç birimi açıp verilen komutlar doğrultusunda kurabiliriz.
 
 		sudo gedit /etc/apt/sources.list
 
