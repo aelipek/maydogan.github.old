@@ -16,11 +16,11 @@ paketlerini de  kaldıracaksanız mark for complete removal(tamamen kaldırmak i
 işaretle yani tüm yapılandırma paketleri ile birlikte kaldırmak)'i seçin.
 İkicisi olarak eğer konsoldan işlem yapmayı seviyorsanız :
 
-	sudo apt -get remove program_adi
+	sudo apt-get remove program_adi
 
 Komutu ile kaldırabilirsiniz.Yapılandırma paketlerini de kaldırmak için :
 
-	sudo apt -get purge
+	sudo apt-get purge
 
 komutu yeterlidir...
 
