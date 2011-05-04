@@ -18,7 +18,7 @@ işaretle yani tüm yapılandırma paketleri ile birlikte kaldırmak)'i seçin.
 
 	sudo apt-get remove program_adi
 
-Komutu ile kaldırabilirsiniz.Yapılandırma paketlerini de kaldırmak için :
+komutu ile kaldırabilirsiniz.Yapılandırma paketlerini de kaldırmak için :
 
 	sudo apt-get purge
 
