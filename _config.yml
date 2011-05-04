@@ -14,7 +14,7 @@ rdiscount:
 
 # ----------------------------------------------------------------------
 # temel parametreler
-#
+# 
 # bu parameterleri doğrudan "site" uzayına yerleştiriyoruz
 # ----------------------------------------------------------------------
 
@@ -44,13 +44,13 @@ url: http://maydogan.github.com
 #
 # site görünümüne ait görsel ve javascript dosyaları chrome dizininde
 # olduğuna göre bu parametre için örnek bir değer:
-#
+#   
 # 	http://roktas.github.com/chrome
 assets: http://maydogan.github.com/chrome
 
 # ----------------------------------------------------------------------
 # site parametreleri
-#
+# 
 # kalan tüm parameterleri "site.param" uzayına koyuyoruz
 # ----------------------------------------------------------------------
 param:
@@ -73,7 +73,7 @@ param:
         # flick adresi (ör. http://flickr.com/photos/roktas)
         flickr: http://flickr.com/photos/maydogan
         # facebook adresi (ör. http://facebook.com/roktas)
-        facebook: http://facebook.com/meltem.aydogan1
+        facebook: http://facebook.com/maydogan.aydogan1
         # özet akışı adresi (ör. http://feeds.feedburner.com/roktas)
         feed: ~
 
@@ -99,7 +99,7 @@ param:
         # ilişkili girdiler
         related: Diğer Girdiler
         # logo (ör. http://00010011.github.com/assets/19/19-normal-128x128.png)
-        logo: /chrome/19/19-normal-128x128.png
+        logo: /chrome/19/19-negative-128x128.png
         # google site içi arama kutusu
         google: ~
         # google analytics takip numarası (ör. UA-1234567-8
