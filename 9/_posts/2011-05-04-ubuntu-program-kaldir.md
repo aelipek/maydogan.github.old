@@ -1,6 +1,6 @@
 ---
 layout : post
-title : Ubuntu'da Program Kaldırmak
+title : ubuntu'da program kaldırmak
 ---
 
 Ubuntu'da daha önce kurmuş olduğumuz programları  iki şekilde kaldırabilirsiniz.
