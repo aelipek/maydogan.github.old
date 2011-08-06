@@ -142,4 +142,4 @@ Mesh Topoloji de denilen örgü topolojisinde ağ yapısı incelendiğinde belir
 düzen görülmemektedir. Her bilgisayar kendine en yakın olan bilgisayara
 bağlanmaktadır.
 
-![1](http://maydogan.me/file/topoloji1.jpg
+![1](http://maydogan.me/file/topoloji1.jpg)
