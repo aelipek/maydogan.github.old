@@ -87,6 +87,7 @@ Bu ağ çeşidinde tüm bilgisayarlar bir halkanın elemanları konumundadırlar
 düşen her bilgiyi BUS topolojisinde de olduğu gibi tüm bilgisayarlar görür fakat
 bilginin adresi ile kendi adresi uyum gösteren bilgisayara iletilir. Eğer bilgi
 hiçbir bilgisayar tarafından alınmamış ise devre dışı kalır.
+
 Avantajları;
 
 - Kablo yapısı güvenlidir.
@@ -110,6 +111,7 @@ Kullanılan ağ kartına göre hızının değişebildiği bu ağda, merkez ile 
 arasındaki mesafe en fazla 100 metre olabilir.
 Merkezdeki birimin üzerindeki ışıkların yanıp yanmaması durumuna bakılarak
 arızalı istasyonun bulunabilmesi tüm ağın güvenliğini sağlamaktadır.
+
 Avantajları;
 
 - İstasyonların arızalanması ağı etkilemez.
