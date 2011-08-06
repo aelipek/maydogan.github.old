@@ -70,11 +70,13 @@ ve protokollerin bunu engellemek amaçlı kullanılmasına olanak sağlanmışt�
 topolojisi kurulurken koaksiyel kablo kullanılır. Her bir bilgisayar ağa
 T-konektörler ile bağlanır.
 Avantajları;
+
 - Kablo yapısı güvenlidir.
 - Yeni bir istasyon eklemek çok kolaydır.
 - Merkez birime ihtiyaç duyulmaz.
 
 Dezavantajları;
+
 - Ağda en fazla 30 bilgisayar bulunabilir.
 - Ağın uzunluğu ince koaksiyelde 185, kalın koaksiyelde 500 metreden fazla olamaz.
 - Bir istasyon arızalandığında tüm ağ devre dışı kalır. Bu yüzden arıza tespiti
@@ -86,11 +88,13 @@ düşen her bilgiyi BUS topolojisinde de olduğu gibi tüm bilgisayarlar görür
 bilginin adresi ile kendi adresi uyum gösteren bilgisayara iletilir. Eğer bilgi
 hiçbir bilgisayar tarafından alınmamış ise devre dışı kalır.
 Avantajları;
+
 - Kablo yapısı güvenlidir.
 - Yeni bir istasyon eklemek çok kolaydır.
 - Merkez birime ihtiyaç duyulmaz.
 
 Dezavantajları;
+
 - Maliyet bakımından diğer ağlardan biraz daha pahallıdır.
 - İletişim hızları kablolama sisteminize bağlıdır.
 - Hem ağın yayıldığı tüm alan hem de bilgisayarlar arası
@@ -107,12 +111,14 @@ arasındaki mesafe en fazla 100 metre olabilir.
 Merkezdeki birimin üzerindeki ışıkların yanıp yanmaması durumuna bakılarak
 arızalı istasyonun bulunabilmesi tüm ağın güvenliğini sağlamaktadır.
 Avantajları;
+
 - İstasyonların arızalanması ağı etkilemez.
 - Ağa yeni bir istasyon eklemek çok kolaydır.
 - Ağ yönetimi kolaydır.
 - Kullanılan ağ elemanına göre ağın hızı artırılabilir.
 
 Dezavantajları;
+
 - Merkezde oluşacak arıza tüm ağın devre dışı kalmasına neden olabilir.
 - Her bir istasyon için ayrı bir koaksiyel kablo kullanılacağından maliyet
   yüksek, kablo kirliliği çoktur.
