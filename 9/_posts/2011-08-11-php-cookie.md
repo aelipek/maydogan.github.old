@@ -10,12 +10,7 @@ oluşturulan  dosyadır. Oluşturduğumuz bu dosya içinde kullanıcı bilgileri
 Cookie oluşturmak için `setcookie` fonksiyonu kullanmalıyız. Bu fonksiyonun parametreleri sırasıyla **değişken, değer,
 geçerlilik süresi** dir;
 
-		<?php
-		setcookie("user", "may",time() + 7200);
-		// user isimli cookie oluşturup may değerini atadık
-		// geçerlilik süresini, şimdiki zamana 7200 saniye
-		// ekleyerek sonraki 2 saat olarak ayarladık
-		?>
+<script src="https://https://gist.github.com/5ea3e3ea41f107ea3f8f.js"> </script>
 
 Cookienin geçerlilik süresini bir başka bir şekilde ayarlayabiliriz;
 
