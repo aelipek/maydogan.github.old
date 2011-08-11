@@ -14,12 +14,7 @@ geçerlilik süresi** dir;
 
 Cookienin geçerlilik süresini bir başka bir şekilde ayarlayabiliriz;
 
-		<?php
-		$extime=time()+60*60*24*30;
-		setcookie("user", "may", $extime);
-		// cookienin geçerlilik süresini 60 saniye * 60 dakika * 24 saat * 30 gün
-		// kullanarak bir ay olacak şekilde ayarladık
-		?>
+<script src="https://gist.github.com/d3a46d835ca51958858e.js"> </script>
 
 ####cookie'ye değer atama
 
