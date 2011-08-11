@@ -10,7 +10,7 @@ oluşturulan  dosyadır. Oluşturduğumuz bu dosya içinde kullanıcı bilgileri
 Cookie oluşturmak için `setcookie` fonksiyonu kullanmalıyız. Bu fonksiyonun parametreleri sırasıyla **değişken, değer,
 geçerlilik süresi** dir;
 
-<script src="https://https://gist.github.com/5ea3e3ea41f107ea3f8f.js"> </script>
+<script src="https://gist.github.com/1139640.js"> </script>
 
 Cookienin geçerlilik süresini bir başka bir şekilde ayarlayabiliriz;
 
