@@ -12,6 +12,8 @@ geçerlilik süresi** dir;
 
 <script src="https://gist.github.com/1139640.js"> </script>
 
+---
+
 Cookienin geçerlilik süresini bir başka bir şekilde ayarlayabiliriz;
 
 <script src="https://gist.github.com/d3a46d835ca51958858e.js"> </script>
@@ -22,28 +24,14 @@ Php'de, `$_COOKIE` değişkenini, bir cookie değerini atamak için
 kullanabiliriz. Aşağıda, **"user"** adlı cookienin değerini alıp ve bir
 sayfada görüntüleyen örnek paylaştım;
 
-		<?php
-		// cookienin değerini yazdırdık
-		echo $_COOKIE["user"];
-		// Bütün cookieleri görüntülememiz için bir yol
-		print_r($_COOKIE);
-		?>
+<script src="https://gist.github.com/9bf3d9a95f115910e996.js"> </script>
+
+---
 
 Aşağıdaki örnekteki gibi bir cookie olup olmadığını öğrenmek için `isset()` işlevini
 kullanabiliriz;
 
-		<html>
-		<body>
-
-		<?php
-		if (isset($_COOKIE["user"]))
-		    echo $_COOKIE["user"] . "isimli cookie oluşturulmuş...";
-		else
-		    echo "cookie oluşturulmamış";
-		?>
-
-		</body>
-		</html>
+<script src="https://gist.github.com/4de29c6a6a09cc5b30a3.js"> </script>
 
 ####cookie silme
 
@@ -52,7 +40,5 @@ değişkenine boş değer atayarak ve geçerlilik süresini şimdiki zamandan da
 bir zaman olacak şekilde ayarlayarak oluşturduğumuz cookienin geçerliliğini
 yitirmiş oluyoruz;
 
-		<?php
-		setcookie("user", "",time() - 7200);
-		?>
+<script src="https://gist.github.com/a3badd41586322d8cb05.js"> </script>
 
