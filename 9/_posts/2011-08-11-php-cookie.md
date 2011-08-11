@@ -11,12 +11,10 @@ Cookie oluşturmak için `setcookie` fonksiyonu kullanmalıyız. Bu fonksiyonun 
 geçerlilik süresi** dir;
 
 		<?php
-
 		setcookie("user", "may",time() + 7200);
 		// user isimli cookie oluşturup may değerini atadık
 		// geçerlilik süresini, şimdiki zamana 7200 saniye
 		// ekleyerek sonraki 2 saat olarak ayarladık
-
 		?>
 
 Cookienin geçerlilik süresini bir başka bir şekilde ayarlayabiliriz;
@@ -37,7 +35,6 @@ sayfada görüntüleyen örnek paylaştım;
 		<?php
 		// cookienin değerini yazdırdık
 		echo $_COOKIE["user"];
-
 		// Bütün cookieleri görüntülememiz için bir yol
 		print_r($_COOKIE);
 		?>
@@ -50,9 +47,9 @@ kullanabiliriz;
 
 		<?php
 		if (isset($_COOKIE["user"]))
-			echo $_COOKIE["user"] . "isimli cookie oluşturulmuş...";
+		    echo $_COOKIE["user"] . "isimli cookie oluşturulmuş...";
 		else
-			echo "cookie oluşturulmamış";
+		    echo "cookie oluşturulmamış";
 		?>
 
 		</body>
