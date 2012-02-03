@@ -6,5 +6,7 @@ body {
 	background-color: none;
 	background-image: url('/chrome/background/back.jpg');
 }
-
-
+#icon{
+right : 90px;
+top : 200px;
+}
