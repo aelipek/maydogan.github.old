@@ -7,6 +7,6 @@ body {
 	background-image: url('/chrome/background/back.jpg');
 }
 #icon{
-right : 90px;
-top : 200px;
+right : -100px;
+top : -100px;
 }
