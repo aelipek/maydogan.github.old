@@ -1,6 +1,6 @@
 ---
 layout : post
-title : ubuntu'da program kaldırmak
+title : wp kurulum
 ---
 
 Ubuntu'da daha önce kurmuş olduğumuz programları  iki şekilde kaldırabilirsiniz.
