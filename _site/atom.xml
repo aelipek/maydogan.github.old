@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<!-- Index start -->
+<title>Meltem Aydoğan</title>
+<link href="http://localhost:4000//atom.xml" rel="self"/>
+<link href="http://localhost:4000/"/>
+<updated>2013-04-11T14:56:10+03:00</updated>
+<id>http://localhost:4000/</id>
+<author>
+  <name>Meltem AYDOĞAN</name>
+  <email>meltem.aydogan@bil.omu.edu.tr</email>
+</author>
+
+  <entry>
+  <title>birisine..-130407</title>
+  <link href="http://localhost:4000/904/birisine"/>
+  <updated>2013-04-07T00:00:00+03:00</updated>
+  <id>/904/birisine</id>
+  <content type="html">&lt;p&gt;Kendini gereğinden fazla önemli zanneden birisine. Aptallıklarına tahammül edeni bulduğunda kendini akıllı zanneden birisine. Ağzından çıkan patavatsız sözlere Dürüstlük sıfatını yakıştıran birisine. İnsanın yüzüne söyleyemediklerini de kapalı kapılar ardında söyleyen birisine. Şahsi menfaatini Seni Seviyorum sözcükleriyle süsleyen birisine. &amp;ldquo;Gitmeyi bilmek&amp;rdquo; erdemini yaşamaktansa &amp;ldquo;Hayatından çıkardığını sanmak&amp;rdquo; şımarıklığını beceri sayan zavallı birisine. Söyleyecek tek söz &amp;ldquo;O dağa bir kuş kondu, sonra da uçup gitti.  Bak da gör, o dağda ne bir fazlalık var ne bir eksilme..&amp;rdquo; G. Kayhan&lt;/p&gt;
+</content>
+</entry>
+    <entry>
+  <title>wp kurulum-130219</title>
+  <link href="http://localhost:4000/102/wp-kurulum"/>
+  <updated>2013-02-19T00:00:00+02:00</updated>
+  <id>/102/wp-kurulum</id>
+  <content type="html">&lt;p&gt;&amp;mdash;&lt;/p&gt;
+</content>
+</entry>
+    <entry>
+  <title>Wordpress Tema Kurulumu-130219</title>
+  <link href="http://localhost:4000/102/filezilla"/>
+  <updated>2013-02-19T00:00:00+02:00</updated>
+  <id>/102/filezilla</id>
+  <content type="html">
+</content>
+</entry>
+    <entry>
+  <title>Ruby on Rails Kurulum-120331</title>
+  <link href="http://localhost:4000/103/rails"/>
+  <updated>2012-03-31T00:00:00+03:00</updated>
+  <id>/103/rails</id>
+  <content type="html">&lt;p&gt;Ruby on Rails, bilindiği gibi ruby diliyle yazılmış bir framework teknolojisidir. Web uygulamalarında bize çok kolaylık sağlayacak olan RoR' u ubuntu ortamında şöyle kurup, uygulama geliştirebiliriz:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;İlk olarak tabiki &lt;strong&gt;RubyGem&lt;/strong&gt; leri ile birlikte &lt;strong&gt;Rails&lt;/strong&gt; yükleyelim:&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;code&gt;sudo gem install rails&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Başarı iletimizi aldıysak rails kurulumu tamamlanmıştır!&amp;hellip;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Veritabanı bağlantımız için, apt-get ile birlikte SQLite3' ü de yükleyelim:&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt; &lt;code&gt;sudo gem install sqlite3-ruby&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Uygulama Geliştirme&amp;hellip;.&lt;/p&gt;
+</content>
+</entry>
+    <entry>
+  <title>ubuntu 11.04 dil sorunu-110901</title>
+  <link href="http://localhost:4000/109/dil-sorunu"/>
+  <updated>2011-09-01T00:00:00+03:00</updated>
+  <id>/109/dil-sorunu</id>
+  <content type="html">&lt;p&gt;Ubuntu 11.04' ü yeni yükleyince &lt;strong&gt;Language Support&lt;/strong&gt; ekranı gelmediğinden dil
+ayarlarınızı yapamıyorsanız sorunu aşağıdaki şekilde çözebilirsiniz;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;Uygulamalar –&amp;gt; Ana menü&lt;/code&gt; seçelim ve soldaki sekmeden &lt;code&gt;Sistem&lt;/code&gt; altındaki
+&lt;code&gt;Yönetim&lt;/code&gt; menüsüne tıklayalım. Sağdaki &lt;code&gt;Dil Desteği -&amp;gt; Özellikler&lt;/code&gt; &amp;lsquo;e
+tıklayalım, sonrasında &lt;strong&gt;commant&lt;/strong&gt; bölümüne şu yazıyı yazalım ve kaydedelim;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;env LANG=”en_US.UTF8” /usr/bin/gnome-language-selector
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Artık &lt;code&gt;Uygulamalar –&amp;gt; Ana menü&lt;/code&gt; ile açabilirsiniz.&lt;/p&gt;
+</content>
+</entry>
+    <entry>
+  <title>kuyumcu..-110821</title>
+  <link href="http://localhost:4000/008/kuyumcu"/>
+  <updated>2011-08-21T00:00:00+03:00</updated>
+  <id>/008/kuyumcu</id>
+  <content type="html">&lt;p&gt;Vaktiyle bir bilge hoca, yıllarca yanında yetiştirdiği öğrencisinin&lt;/p&gt;
+
+&lt;p&gt;seviyesini öğrenmek ister. Onun eline çok parlak ve gizemli görüntüye sahip&lt;/p&gt;
+
+&lt;p&gt;iri bir nesne verip: &amp;ldquo;Oğlum&amp;rdquo; der, &amp;ldquo;Bunu al, önüne gelen esnafa göster, kaç&lt;/p&gt;
+
+&lt;p&gt;para verdiklerini sor, en sonra da kuyumcuya göster. Hiç kimseye satmadan&lt;/p&gt;
+
+&lt;p&gt;sadece fiyatlarını ve ne dediklerini öğren, gel bana bildir.&lt;/p&gt;
+
+&lt;p&gt;Öğrenci elindeki ile çevresindeki esnafı gezmeye başlar.&lt;/p&gt;
+
+&lt;p&gt;İlk önce bir bakkal dükkanına girer ve &amp;ldquo;Şunu kaça alırsınız?&amp;rdquo; diye sorar .&lt;/p&gt;
+
+&lt;p&gt;Bakkal parlak bir boncuğa benzettiği nesneyi eline alır; evirir çevirir;&lt;/p&gt;
+
+&lt;p&gt;sonra: &amp;ldquo;Buna bir tek lira veririm. Bizim çocuk oynasın&amp;rdquo; der.&lt;/p&gt;
+
+&lt;p&gt;İkinci olarak bir manifaturacıya gider. O da parlak bir taşa benzettiği&lt;/p&gt;
+
+&lt;p&gt;nesneye ancak bir beş lira vermeye razı olur.&lt;/p&gt;
+
+&lt;p&gt;Üçüncü defa bir semerciye gidir: Semerci nesneye şöyle bir bakar, &amp;ldquo;Bu der&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;benim semerlere iyi süs olur. Bundan &quot;kaş dediğimiz süslerden yaparım. Buna&lt;/p&gt;
+
+&lt;p&gt;bir on lira veririm.&quot;&lt;/p&gt;
+
+&lt;p&gt;En son olarak bir kuyumcuya gider. Kuyumcu öğrencinin elindekini görünce&lt;/p&gt;
+
+&lt;p&gt;yerinden fırlar. &amp;ldquo;Bu kadar değerli bir pırlantayı, mücevheri nereden&lt;/p&gt;
+
+&lt;p&gt;buldun?&amp;ldquo; diye hayretle bağırır ve hemen ilave eder. &quot;Buna kaç lira&lt;/p&gt;
+
+&lt;p&gt;istiyorsun?&amp;ldquo; Öğrenci sorar: Siz ne veriyorsunuz?&amp;rdquo; &amp;ldquo;Ne istiyorsan veririm.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Öğrenci, &amp;ldquo;Hayır veremem.&amp;rdquo; diye taşı almak için uzanınca kuyumcu yalvarmaya&lt;/p&gt;
+
+&lt;p&gt;başlar:&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Ne olur bunu bana satın. Dükkanımı, evimi, hatta arsalarımı vereyim.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Öğrenci emanet olduğunu, satmaya yetkili olmadığını, ancak fiyat öğrenmesini&lt;/p&gt;
+
+&lt;p&gt;istediklerini anlatıncaya kadar bir hayli dil döker.&lt;/p&gt;
+
+&lt;p&gt;Mücevheri alıp kuyumcudan çıkan öğrencinin kafası karma karışıktır. Böylesi&lt;/p&gt;
+
+&lt;p&gt;karışık düşünceler içinde geriye dönmeye başlar. Bir tarafta elindeki&lt;/p&gt;
+
+&lt;p&gt;nesneye yüzünü buruşturarak 1 lira verip onu oyuncak olarak görenler, diğer&lt;/p&gt;
+
+&lt;p&gt;tarafta da mücevher diye isimlendirip buna sahip olmak için her&lt;/p&gt;
+
+&lt;p&gt;şeyini vermeye hazır olan ve hatta yalvaran kişiler..&lt;/p&gt;
+
+&lt;p&gt;Bilge hocasının yanına dönen öğrenci, büyük bir şaşkınlık içinde başından&lt;/p&gt;
+
+&lt;p&gt;geçen macerasını anlatır.&lt;/p&gt;
+
+&lt;p&gt;Bilge sorar: &amp;ldquo;Bu karşılaştığın durumları izah edebilir misin?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Öğrenci: &amp;ldquo;Çok şaşkınım efendim, ne diyeceğimi bilemiyorum,&lt;/p&gt;
+
+&lt;p&gt;kafam karmakarışık&quot; diye cevap verir.&lt;/p&gt;
+
+&lt;p&gt;Bilge hoca çok kısa cevap verir: &amp;ldquo;Bir şeyin kıymetini ancak onun değerini&lt;/p&gt;
+
+&lt;p&gt;bilen anlar ve o değerini bilenin yanında kıymetlidir.&quot;&lt;/p&gt;
+
+&lt;p&gt;Her insanın hayatında varlığını ve değerini bilen, hisseden, fark eden&lt;/p&gt;
+
+&lt;p&gt;kuyumcular mutlaka vardır.&lt;/p&gt;
+
+&lt;p&gt;Mesele kuyumcuyu bulmaktadır&amp;hellip;&lt;/p&gt;
+</content>
+</entry>
+    <entry>
+  <title>php cookies-110811</title>
+  <link href="http://localhost:4000/108/php-cookie"/>
+  <updated>2011-08-11T00:00:00+03:00</updated>
+  <id>/108/php-cookie</id>
+  <content type="html">&lt;p&gt;Cookie(çerez), gerektiğinde kullanılması için client tarafından
+oluşturulan  dosyadır. Oluşturduğumuz bu dosya içinde kullanıcı bilgileri, kullanıcının tercihleri gibi tanımlayıcı bilgiler saklayabiliriz. Cookieler HTML kod içine gömülüdür ve server-client arasinda gidip gelirler. Client'imiz web tarayıcımızdır. Server ise web sayfasının bulunduğu makinede çalışan programdır. Cookieler kişiye özel web sayfası yapmak, biz internette gezinirken veri kaydetmek, istatistik tutmak gibi işlerde kullanılır. Örneğin, sitemizde birkaç çeşit tema kullanıyorsak, bu temaları cookiede tutulan tek bir değer ile değiştirebiliriz. Cookieler ile ilgili yapılan temel işlemler; Oluşturma, değer atama, değer okuma, değerini değiştirme ve silme şeklindedir.&lt;/p&gt;
+
+&lt;h4&gt;cookie oluşturma&lt;/h4&gt;
+
+&lt;p&gt;Cookie oluşturmak için &lt;code&gt;setcookie&lt;/code&gt; fonksiyonu kullanmalıyız. Bu fonksiyonun parametreleri sırasıyla &lt;strong&gt;değişken, değer,
+geçerlilik süresi&lt;/strong&gt; dir;&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/1139640.js&quot;&gt; &lt;/script&gt;
+
+
+&lt;hr /&gt;
+
+&lt;p&gt;Cookienin geçerlilik süresini bir başka bir şekilde ayarlayabiliriz;&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/d3a46d835ca51958858e.js&quot;&gt; &lt;/script&gt;
+
+
+&lt;h4&gt;cookie'ye değer atama&lt;/h4&gt;
+
+&lt;p&gt;Php'de, &lt;code&gt;$_COOKIE&lt;/code&gt; değişkenini, bir cookie değerini atamak için
+kullanabiliriz. Aşağıda, &lt;strong&gt;&amp;ldquo;user&amp;rdquo;&lt;/strong&gt; adlı cookienin değerini alıp ve bir
+sayfada görüntüleyen örnek paylaştım;&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/9bf3d9a95f115910e996.js&quot;&gt; &lt;/script&gt;
+
+
+&lt;hr /&gt;
+
+&lt;p&gt;Aşağıdaki örnekteki gibi bir cookie olup olmadığını öğrenmek için &lt;code&gt;isset()&lt;/code&gt; işlevini
+kullanabiliriz;&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/4de29c6a6a09cc5b30a3.js&quot;&gt; &lt;/script&gt;
+
+
+&lt;h4&gt;cookie silme&lt;/h4&gt;
+
+&lt;p&gt;Cookie silmek için yine &lt;code&gt;setcookie&lt;/code&gt; fonsiyonunu kullanmamız gerekli. &lt;strong&gt;&amp;ldquo;user&amp;rdquo;&lt;/strong&gt;
+değişkenine boş değer atayarak ve geçerlilik süresini şimdiki zamandan daha önce
+bir zaman olacak şekilde ayarlayarak oluşturduğumuz cookienin geçerliliğini
+yitirmiş oluyoruz;&lt;/p&gt;
+
+&lt;script src=&quot;https://gist.github.com/a3badd41586322d8cb05.js&quot;&gt; &lt;/script&gt;
+
+
+
+</content>
+</entry>
+    <entry>
+  <title>sistem bilgisi görüntüleme-110807</title>
+  <link href="http://localhost:4000/108/komutlar"/>
+  <updated>2011-08-07T00:00:00+03:00</updated>
+  <id>/108/komutlar</id>
+  <content type="html">&lt;p&gt;Kullandığınız sistem hakkındaki bilgileri öğrenmek istiyorsanız aşağıdaki
+komutlar işinizi görecektir;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Disk kullanımını görüntülemek istiyorsanız;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  $ df -h
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Bilgisayar açıldığından itibaren geçen süreyi göstermek istiyorsanız;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  $ uptime
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Giriş isminizi görüntülemek istiyorsanız;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  $ whoami
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ağa bağlı olan kullanıcıları merak ediyorsanız;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  $ rwho -a
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Bellek kullanımını öğrenmek istiyorsanız;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  $ free
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Kullanılan hesap için çalıştırılan komutları görmek için;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  $ history
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Yerel sunucu adını görmek istiyorsanız;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  $ hostname
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;İşletim sisteminin saat ve tarihini görüntülemek için;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;  $ date
+&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+</entry>
+    <entry>
+  <title>iyi düşünün...-110807</title>
+  <link href="http://localhost:4000/008/iyidusunun"/>
+  <updated>2011-08-07T00:00:00+03:00</updated>
+  <id>/008/iyidusunun</id>
+  <content type="html">&lt;p&gt;Bu yılınızı iyi geçirdiniz mi?&lt;/p&gt;
+
+&lt;p&gt;Sağlıklı olduğunuz için hiç sevindiniz mi?&lt;/p&gt;
+
+&lt;p&gt;Bu yıl hiç gün ışığı ile uyandınız mı?&lt;/p&gt;
+
+&lt;p&gt;Kaç kez güneşin doğuşunu izlediniz?&lt;/p&gt;
+
+&lt;p&gt;Bir neden yokken kaç kişiye hediye aldınız?&lt;/p&gt;
+
+&lt;p&gt;Kaç sabah yolda bir kediyi okşadınız?&lt;/p&gt;
+
+&lt;p&gt;Bu yıl yeni doğmuş bir bebek parmağınızı sıkıca tuttu mu hiç?&lt;/p&gt;
+
+&lt;p&gt;Ve siz onu hiç kokladınız mı?&lt;/p&gt;
+
+&lt;p&gt;Yaz gecelerinde ne çok yıldız olduğuna hiç şaşırdınız mı?&lt;/p&gt;
+
+&lt;p&gt;Kendinize bu yıl kaç oyuncak aldınız?&lt;/p&gt;
+
+&lt;p&gt;Kaç kez gözlerinizden yaş gelinceye kadar güldünüz?&lt;/p&gt;
+
+&lt;p&gt;Yaşlı bir ağaca sarıldınız mı bu yıl?&lt;/p&gt;
+
+&lt;p&gt;Çimlere uzandığınız oldu mu?&lt;/p&gt;
+
+&lt;p&gt;Çocukluğunuzdan kalan bir şarkıyı söylediniz mi hiç?&lt;/p&gt;
+
+&lt;p&gt;Hiç suda taş kaydırdınız mı bu yıl?&lt;/p&gt;
+
+&lt;p&gt;Kaç kez kuşlara yem attınız?&lt;/p&gt;
+
+&lt;p&gt;Bir çiçeği dalındayken kokladınız mı?&lt;/p&gt;
+
+&lt;p&gt;Bu yıl kaç kez gökkuşağı gördünüz?&lt;/p&gt;
+
+&lt;p&gt;Ya da hediye alan bir çocuğun gözlerindeki ışığı?&lt;/p&gt;
+
+&lt;p&gt;Kaç kez mektup aldınız bu yıl?&lt;/p&gt;
+
+&lt;p&gt;Eski bir dostunuzu aradınız mı hiç?&lt;/p&gt;
+
+&lt;p&gt;Kimseyle barıştınız mı bu yıl?&lt;/p&gt;
+
+&lt;p&gt;Aslında mutlu olduğunuzu kaç kez farkettiniz bu yıl?&lt;/p&gt;
+
+&lt;p&gt;İyi bir yılın, bunlar gibi birçok &amp;ldquo;küçük şeye&quot;e&lt;/p&gt;
+
+&lt;p&gt;bağlı olduğunu hiç düşündünüz mü bu yıl?&lt;/p&gt;
+
+&lt;p&gt;Yayılın çimenlerin üzerine&amp;hellip;Acele edin&amp;hellip;.&lt;/p&gt;
+
+&lt;p&gt;Er veya geç&amp;hellip; Çimenler yayılacak üzerinize&amp;hellip;..&lt;/p&gt;
+</content>
+</entry>
+    <entry>
+  <title>linux dosya izinleri-110806</title>
+  <link href="http://localhost:4000/108/izinler"/>
+  <updated>2011-08-06T00:00:00+03:00</updated>
+  <id>/108/izinler</id>
+  <content type="html">&lt;h3&gt;Erişim hakları&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Okuma izni:&lt;/strong&gt; Dosyanın okuma izni varsa içeriği görüntülenebilir, dizinin okuma izni varsa içerdiği dosyaların listesi alınabilir.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Yazma izni:&lt;/strong&gt; Dosyanın yazma izni varsa dosya değiştirebilir veya silinebilir. Dizine yazma izni verildiğinde dizin altındaki dosyalar yazılabilir veya silinebilir.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Çalıştırma izni:&lt;/strong&gt; Dosyayı çalıştırma hakkını verir.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Erişim haklarının dışında bir dosyanın üç izin düzeyi daha vardır. Bunlar,
+dosyanın sahibi, dosyanın grubu ve diğer kullanıcılardır. Dosyanın sahibi, o
+dosyayı oluşturan kişidir. Her kullanıcının bir grubu da olduğu için, dosya
+oluşturulurken kullanıcı hangi grupta ise dosya da o gruba ait olacaktır.
+Dosyanın sahibi olmayan ve grubu da dosyanın grubuyla uyuşmayan sistemdeki
+kullanıcılar &lt;em&gt;diğer&lt;/em&gt; sınıfına girerler.&lt;/p&gt;
+
+&lt;h3&gt;Dosya izinlerinin değiştirilmesi&lt;/h3&gt;
+
+&lt;p&gt;Dosya izin bilgilerini görebilmek için ls komutu, -l parametresiyle kullanılır.
+Yani &lt;code&gt;ls -l&lt;/code&gt; komutu ile dosya izinlerini görebiliriz. Aşağıdaki dosyanın erişim
+haklarına bakacak olursak;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;-rwxr-xr-x  1 may may     0 2011-08-06 21:09 test&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Dosyanın en sol kısmında izin hakları yer alır. Bu dosyanın izin hakkı
+&lt;code&gt;-rwxr-xr-x&lt;/code&gt;&amp;lsquo; dır. En baştaki &lt;strong&gt;&amp;ndash;&lt;/strong&gt; işareti dosyanın düz dosya olduğunu belirtir.
+&lt;strong&gt;may&lt;/strong&gt; bu dosyanın sahibidir. Ardından sırayla uzunluk, dosyanın son değiştirilme tarihi
+ve dosya ismi bilgileri görüntülenir.&lt;/p&gt;
+
+&lt;p&gt;İzinlerde  r,w ve x karakterleri sırayla okuma, yazma ve çalıştırma haklarını
+belirtir. En soldaki &lt;strong&gt;&amp;ndash;&lt;/strong&gt; işaretini ayırdığımız zaman geri kalan harfleri üçlü
+grup haline getirirsek sırasıyla birinci harf kümesi dosya
+sahibinin izinlerini, ikinci harf kümesi grup izinleri ve son küme de diğer
+kullanıcıların izinlerini belirtir. Buna göre yukarıdaki dosyada:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;rwx: kullanıcı okuyabilir, yazabilir, çalıştırabilir&lt;/li&gt;
+&lt;li&gt;r-x: grup okuyabilir, çalıştırabilir fakat yazamaz.&lt;/li&gt;
+&lt;li&gt;r-x: diğerleri okuyabilir, çalıştırabilir fakat yazamaz.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Sol baştaki karakter &lt;strong&gt;d&lt;/strong&gt; olsaydı, bir dizin inceliyor olacaktık.
+Dosyanın izinlerini değiştirmek için &lt;code&gt;chmod&lt;/code&gt; komutu kullanılır. Bu komutu
+kullanırken hangi izin düzeyine (kullanıcı, grup veya diğerleri) hangi izinlerin
+verileceği veya kaldırılacağı yazılır. Yukarıdaki dosyanın okuma iznini kaldıracak olursak;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ chmod -r test
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;komutu kullanılabilir. &lt;strong&gt;&amp;ndash;&lt;/strong&gt; işareti, iznin kaldırılacağını belirtir. İzin vermek için ise &lt;strong&gt;+&lt;/strong&gt; yazılır.
+Sadece grubun, sadece kullanıcının veya sadece diğerlerinin erişim hakkını
+değiştirebilmek için her izin düzeyi için bir harf tanımlanmıştır. Kullanıcı
+için &lt;strong&gt;u&lt;/strong&gt;, grup için &lt;strong&gt;g&lt;/strong&gt; ve diğerleri için &lt;strong&gt;o&lt;/strong&gt; yazarak belirli bir izin düzeyi
+için erişim hakkını değiştirmek mümkün olur. Bu üç harf, izinden hemen önce
+yazılır.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;$ chmod u+x test&lt;/code&gt;            (dosyanin sahibi calistirabilir)&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;$ chmod o+r test&lt;/code&gt;            (digerleri okuyabilir)&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;$ chmod g-w test&lt;/code&gt;            (dosyanin grubu yazamaz)&lt;/p&gt;
+
+&lt;p&gt;Her izin için sayılar da tanımlanmıştır. Dosyanın erişim izinlerini değiştirmek için
+her izne ait sayıları kullanabilirsiniz. Aşağıdaki tabloda, her izin düzeyi için üçer tane
+olmak üzere toplam 9 sayıdan oluşan izin numaraları gösterilmiştir. Bir izni
+vermek için sırayla numaraları toplanır. Örneğin; sahibinin okuması (400),
+yazması (200), çalıştırması (100), grubun okuması (40), çalıştırması (10) ve
+diğerlerinin okuması (4) ve çalıştırması (1) için kullanılan rakamların toplamı
+755' tir.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://maydogan.me/file/izinler.png&quot; alt=&quot;1&quot; /&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ chmod 755 test
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;komutu ile yukardaki izinleri test dosyasına uyarlamış olduk.&lt;/p&gt;
+
+&lt;h3&gt;Dosyanın sahibinin ve grubunun değiştirilmesi&lt;/h3&gt;
+
+&lt;p&gt;Bir dosyanın sahibini sadece sistemdeki &lt;em&gt;root&lt;/em&gt; kullanıcı değiştirebilir. Dosya
+sahibinin değiştirilmesi için &lt;code&gt;chown&lt;/code&gt; komutu kullanılır. Yukarıdaki dosyanın
+sahibini &lt;strong&gt;may1&lt;/strong&gt; isimli kullanıcı yapacak olursak;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ chown may1 test
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;code&gt;chown&lt;/code&gt; komutu bu şekilde kullanılır. &lt;code&gt;chgrp&lt;/code&gt; komutu ile de dosyanın grubu
+değiştirilebilir. Yukarıdaki dosyanın grubunu &lt;strong&gt;www&lt;/strong&gt; yapmak için;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;$ chgrp www test
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;code&gt;chgrp&lt;/code&gt; komutu bu şekilde kullanılır&amp;hellip;&lt;/p&gt;
+</content>
+</entry>
+    <entry>
+  <title>ağ çeşitleri-110806</title>
+  <link href="http://localhost:4000/108/ag-cesitleri"/>
+  <updated>2011-08-06T00:00:00+03:00</updated>
+  <id>/108/ag-cesitleri</id>
+  <content type="html">&lt;p&gt;İnternetin bizim için önemini hepimiz biliyoruz. Hemen herkesin hayatında büyük bir yere sahip olan internet o kadar
+çok yaygınlaştı ki, hayatımızı onsuz yaşayamaz olduk. &lt;em&gt;Bilgisayar'a Giriş&lt;/em&gt; dersinde de öğrendiğimiz üzere internetin çalışma hızını ve şeklini &lt;strong&gt;ağ çeşitleri&lt;/strong&gt; başlığında  anlatacak olursak;&lt;/p&gt;
+
+&lt;h3&gt;Ağ Bağlantısı Nedir?&lt;/h3&gt;
+
+&lt;p&gt;Ağ bağlantısı kavramına iki pencereden bakmalıyız. Ağ bağlantısı denildiğinde
+ilk düşünülmesi gereken internettir. Ağ bağlantısı kavramına bu yönden
+baktığımızda şöyle açıklayabiliriz: Ağ bağlantısı, bilgisayarımızın internete
+kablolu ya da kablosuz bir şekilde ulaşabilmesini sağlayan sistemler bütünüdür.
+Diğer bir yandan bakıldığında ise ağ bağlantısı, birden fazla sayıdaki
+bilgisayarınmkablolu ya da kablosuz bir şekilde birbiri ile veri
+alışverişinin yanında ortak donanım birimlerini kullanabilmelerini
+sağlayan sistemler bütünüdür.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Ağ bağlantısı denildiğinde akla gelecek terimlerin başında *sunucu*
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;ve &lt;em&gt;kullanıcı&lt;/em&gt; kavramları gelmektedir.&lt;/p&gt;
+
+&lt;h3&gt;Sunucu ve Kullanıcı Kavramları&lt;/h3&gt;
+
+&lt;p&gt;Ağ bağlantısı teknolojileri ilk geliştirildikleri zamanlarda, bir ana bilgisayar ve bu bilgisayardan hem donanımsal hem de
+yazılımsal olarak çok düşük özelliklere sahip olan
+kullanıcı bilgisayarları(terminaller) vardı. Terminal denilen bu bilgisayarlar aynı zamanda ana bilgisayarın işlemcisini ve
+sabit diskini kullanıyorlardı. Ana bilgisayarın arızalanması sırasında bütün ağ
+elemanları devre dışı kalırken, aynı zamanda onarımlarının maliyeti de çok
+yüksek oluyordu. Böylesi büyük bir sorunu ortadan kaldırmak isteyen geliştiriciler
+kullanıcı(istemci)/sunucu adı verilen bir ağ modeli ortaya koydular. Bu modelde her
+bilgisayar kendi kendine çalışabiliyorken yine ağa bağlanabilmek için sunucu adı verilen bir ana bilgisayara ihtiyaç
+duymaktadırlar. Kullanıcı olarak adlandırılan  birimleri, basitçe, kendinden
+başka bir bilgisayardan yardım isteyen birim olarak tanımlayabiliriz.&lt;/p&gt;
+
+&lt;p&gt;Ağ bağlantıları kurulurken kapsadığı alana dikkat edecek olursak, 3 tip ağ
+çeşidi bulunmaktadır:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Yerel Alan Ağları(LAN)&lt;/li&gt;
+&lt;li&gt;Metropolitan Ağlar(MAN)&lt;/li&gt;
+&lt;li&gt;Geniş Alan Ağları (WAN)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Yerel Alan Ağları&lt;/h3&gt;
+
+&lt;p&gt;İsminden de anlaşılabileceği gibi yerel alan ağları, bir yerleşke ya da
+kuruluşta kullanılan dışarıya kapalı ağlardır.
+Bilgisayarlar arası mesafenin 1 kilometreyi geçmediği bu ağ çeşidi genellikle
+internete bağlanabilmek ya da basit uygulamaların ortak kullanımı için
+kullanılır.&lt;/p&gt;
+
+&lt;h3&gt;Metropolitan Ağlar&lt;/h3&gt;
+
+&lt;p&gt;Yerel alan ağlarının biraz daha gelişmiş hali olan bu ağ tipi genellikle
+üniversitelerin yerleşmelerinde ve büyük iş yerlerinde kullanılmaktadır.&lt;/p&gt;
+
+&lt;h3&gt;Geniş Alan Ağları&lt;/h3&gt;
+
+&lt;p&gt;Yerel alan ağlarının birleşiminden oluşan bir ağ çeşidi olan geniş alan
+ağlarında yönlendirici ve çoklayıcı gibi donanım birimlerinin bulunmaktadır.&lt;/p&gt;
+
+&lt;p&gt;Ağ bağlantıları kurulurken bilgisayarların birbirine bağlanış şeklini göz
+önünde bulundurduğumuzda, iki ana başlık olan LAN ve WAN topolojileri akla
+gelmelidir.&lt;/p&gt;
+
+&lt;h3&gt;LAN Topolojileri&lt;/h3&gt;
+
+&lt;p&gt;Yerel alan ağlarından kullanılan 3 tip topoloji bulunmaktadır:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ortak Topoloji(BUS)&lt;/li&gt;
+&lt;li&gt;Halka Topoloji(Ring)&lt;/li&gt;
+&lt;li&gt;Yıldız Topoloji(Star)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Ortak Yol Topoloji(BUS)&lt;/h3&gt;
+
+&lt;p&gt;Bu topoloji çeşidinde tüm terminaller (bilgisayarlar) düz bir çizgi halinde
+sıralanmışlardır. İletilen bilgiyi tüm terminaller görüyor olmasına
+karşılık, her bilgisayar kendine ait olan bilgiyi alır. Hattaki veri akışı çift yönlü olduğu için veri çakışması olabileceği düşünülmüş
+ve protokollerin bunu engellemek amaçlı kullanılmasına olanak sağlanmıştır. Bus
+topolojisi kurulurken koaksiyel kablo kullanılır. Her bir bilgisayar ağa
+T-konektörler ile bağlanır.
+Avantajları;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kablo yapısı güvenlidir.&lt;/li&gt;
+&lt;li&gt;Yeni bir istasyon eklemek çok kolaydır.&lt;/li&gt;
+&lt;li&gt;Merkez birime ihtiyaç duyulmaz.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Dezavantajları;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ağda en fazla 30 bilgisayar bulunabilir.&lt;/li&gt;
+&lt;li&gt;Ağın uzunluğu ince koaksiyelde 185, kalın koaksiyelde 500 metreden fazla olamaz.&lt;/li&gt;
+&lt;li&gt;Bir istasyon arızalandığında tüm ağ devre dışı kalır. Bu yüzden arıza tespiti
+zordur.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Halka Topoloji(Ring)&lt;/h3&gt;
+
+&lt;p&gt;Bu ağ çeşidinde tüm bilgisayarlar bir halkanın elemanları konumundadırlar. Ağa
+düşen her bilgiyi BUS topolojisinde de olduğu gibi tüm bilgisayarlar görür fakat
+bilginin adresi ile kendi adresi uyum gösteren bilgisayara iletilir. Eğer bilgi
+hiçbir bilgisayar tarafından alınmamış ise devre dışı kalır.&lt;/p&gt;
+
+&lt;p&gt;Avantajları;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kablo yapısı güvenlidir.&lt;/li&gt;
+&lt;li&gt;Yeni bir istasyon eklemek çok kolaydır.&lt;/li&gt;
+&lt;li&gt;Merkez birime ihtiyaç duyulmaz.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Dezavantajları;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Maliyet bakımından diğer ağlardan biraz daha pahallıdır.&lt;/li&gt;
+&lt;li&gt;İletişim hızları kablolama sisteminize bağlıdır.&lt;/li&gt;
+&lt;li&gt;Hem ağın yayıldığı tüm alan hem de bilgisayarlar arası
+mesafe sınırlıdır.&lt;/li&gt;
+&lt;li&gt;Sistemin hızı devreye eklenen her elemanla biraz daha azalır.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Yıldız Topoloji(Star)&lt;/h3&gt;
+
+&lt;p&gt;Bu ağ çeşidinde merkezde bir sunucu bilgisayar bulunur ve tüm kullanıcı
+bilgisayarlar bu sunucuya bağlıdır.Bu sistemde, gönderilecek veri ilk önce merkezi birime gönderilir. Bu merkezi
+birim de ağın düzenini sağlayacak şekilde bu veriyi hedef bilgisayarlara iletir.
+Genel olarak bu merkezi birime HUB ya da SWITCH (anahtar) denilmektedir.
+Kullanılan ağ kartına göre hızının değişebildiği bu ağda, merkez ile istasyonlar
+arasındaki mesafe en fazla 100 metre olabilir.
+Merkezdeki birimin üzerindeki ışıkların yanıp yanmaması durumuna bakılarak
+arızalı istasyonun bulunabilmesi tüm ağın güvenliğini sağlamaktadır.&lt;/p&gt;
+
+&lt;p&gt;Avantajları;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;İstasyonların arızalanması ağı etkilemez.&lt;/li&gt;
+&lt;li&gt;Ağa yeni bir istasyon eklemek çok kolaydır.&lt;/li&gt;
+&lt;li&gt;Ağ yönetimi kolaydır.&lt;/li&gt;
+&lt;li&gt;Kullanılan ağ elemanına göre ağın hızı artırılabilir.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;Dezavantajları;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Merkezde oluşacak arıza tüm ağın devre dışı kalmasına neden olabilir.&lt;/li&gt;
+&lt;li&gt;Her bir istasyon için ayrı bir koaksiyel kablo kullanılacağından maliyet
+yüksek, kablo kirliliği çoktur.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;http://maydogan.me/file/topoloji.jpg&quot; alt=&quot;1&quot; /&gt;&lt;/p&gt;
+
+&lt;h3&gt;WAN Topolojileri&lt;/h3&gt;
+
+&lt;p&gt;WAN topolojisinde başlıca iki tip topoloji vardır:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Ağaç Topolojisi&lt;/li&gt;
+&lt;li&gt;Örgü Topolojisi&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h3&gt;Ağaç Topoloji&lt;/h3&gt;
+
+&lt;p&gt;Hiyerarşik topoloji olarak da bilinen ağaç topolojisinde, ağacın merkezinde bir
+bilgisayar bulunurken tüm sorumluluklar bu bilgisayara aittir. Bu
+sistemlerde dallanma arttıkça görevi en az olan bilgisayara doğru bir geçiş
+gözlenmektedir.&lt;/p&gt;
+
+&lt;h3&gt;Örgü Topoloji&lt;/h3&gt;
+
+&lt;p&gt;Mesh Topoloji de denilen örgü topolojisinde ağ yapısı incelendiğinde belirli bir
+düzen görülmemektedir. Her bilgisayar kendine en yakın olan bilgisayara
+bağlanmaktadır.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://maydogan.me/file/topoloji1.jpg&quot; alt=&quot;1&quot; /&gt;&lt;/p&gt;
+</content>
+</entry>
+    <entry>
+  <title>whois komutu-110727</title>
+  <link href="http://localhost:4000/107/whois"/>
+  <updated>2011-07-27T00:00:00+03:00</updated>
+  <id>/107/whois</id>
+  <content type="html">&lt;p&gt;Dipnot olarak benim çok işime yarayan &lt;strong&gt;whois&lt;/strong&gt; komutunu paylaşmak istiyorum :)&lt;/p&gt;
+
+&lt;p&gt;Eğer ki 176.55.255.255 ip' li kullanıcıyı merak ediyorsanız:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;whois 176.55.255.255&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;whois 176.55.255.255 || less&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;ve herhangi bir domain(sahibi) hakkında bilgi sahibi olmak istiyorsanız:&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;whois maydogan.me&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;whois&lt;/strong&gt; komutunu yukarıdaki gibi kullanarak merakınızı giderebilirsiniz :)&lt;/p&gt;
+</content>
+</entry>
+    <entry>
+  <title>dosya izinleri hatası-110726</title>
+  <link href="http://localhost:4000/107/hatalar"/>
+  <updated>2011-07-26T00:00:00+03:00</updated>
+  <id>/107/hatalar</id>
+  <content type="html">&lt;p&gt;Bilgisayarla haşır neşir olayım derken amansız bir hatayla karşılaştım&amp;hellip; Ya
+dosya izinleriyle fazla uğraştım ya da ubuntunun bel kemiği olan bir kaç dosyayı
+bilmeden sildim ve aşağıdaki sorunlar karşıma çıktı.&lt;/p&gt;
+
+&lt;p&gt;Login olduktan sonra sırasıyla:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Could not update ICEauthority file /home/may/.ICEauthority
+
+Yapılandırma sunucusu ile ilgili bir sorun var.
+(usr/lib/libgconf2-4/gconf-sanity-check-2 durum 256 ile çıktı)
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;bu iki hata geldi ve /home/may dizinindeki hiç bir dosyaya erişemedim. Ayrıca
+uçbirimdeki komutlara da erişim hakkı tanımıyordu. Arayüzden Yerler &gt;&gt; başlangıç klasörü yapınca:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;file:///home/may konumu açılamadı.
+Bu dosyayı işlemek için hiçbir uygulama kayıtlı değil
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;hatası geliyordu. Araştırdığım kadarıyla bu sorun için önerilen çözümler:&lt;/p&gt;
+
+&lt;p&gt;İlk hatadaki ../ICEauthority'nin izinlerini&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo chown may:may /home/may/.ICEauthority
+sudo chmod 664 /home/may/.ICEauthority
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;olacak şekilde değiştirildikten sonra ikinci hatadan kurtulmak için&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;chmod 755 /etc/gconf/gconf.xml.*
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;komutunu kullanarak gconf.xml dosyalarının da izinleri yeniden düzenlemek&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;file:///home/may konumu açılamadı.
+Bu dosyayı işlemek için hiçbir uygulama kayıtlı değil
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;ve sonrasında nautilusdan kaynaklanan bu hatanın çözümü olarak da ubuntu dağıtımının bulunduğu dvd'yi taktıktan sonra:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo apt-get remove nautilus
+
+sudo shutdown -r now
+
+sudo apt-get install nautilus
+sudo shutdown -r now
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;komutları ile nautilus'u yeniden yapılandırarak çözüm bulunmuştur.&lt;/p&gt;
+
+&lt;p&gt;Umarım bilgisayarımdan on gün ayrı kalmama sebep olan bu sorun yinelemez&amp;hellip; :)&lt;/p&gt;
+</content>
+</entry>
+    <entry>
+  <title>google plus-110701</title>
+  <link href="http://localhost:4000/107/google"/>
+  <updated>2011-07-01T00:00:00+03:00</updated>
+  <id>/107/google</id>
+  <content type="html">&lt;p&gt;Google+, Google'ın sosyal ağ piyasasını yeniden canlandırmak için çalışmalarını
+sürdürdüğü bir platform yani Google'ın henüz fırından çıkmayan projesi de denilebilir:)
+Bu proje, sadece link ve fotoğraf paylaşımı olarak değil, video chat imkanlarıyla da
+kullanıcıyı kendine çekme eğilimde&amp;hellip; Google+, kendi içinde birden fazla servisle bu imkanları
+sağlayacak. İşte bu servisler:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Circles:&lt;/strong&gt; Doğru insanlarla doğru şeyleri paylaşmanızı sağlayan bu sistem sayesinde paylaşacağınız
+birşeyi arkadaşlarınızla veya ailenizle paylaşmak tamamen size kalmış bir durum. Bu da paylaşımlarınızı
+daha da özelleştirmenize olanak sağlıyor.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://maydogan.me/file/circles.jpg&quot; alt=&quot;1&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Sparks:&lt;/strong&gt; Bu özellik sayesinde ilgi alanlarınıza eklediğiniz şeyler hakkındaki
+paylaşımları siz de görebilirsiniz. Bu sayede bir süre hesabınıza girmeseniz bile
+her girdiğinizde izlenebilicek, okunabilicek birşeyler bulabileceksiniz.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://maydogan.me/file/sparks.jpg&quot; alt=&quot;1&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Hangouts:&lt;/strong&gt; Google+&amp;lsquo;nın en büyük özelliklerinden biri. 10 kişiye kadar HD kamerayla
+görüntülü görüşme sağlayan bu özellik, Google+'ın en ilgi çeken özelliği.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://maydogan.me/file/hangouts.jpg&quot; alt=&quot;1&quot; /&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Mobile:&lt;/strong&gt; Mobile özellikleri gelişmiş olacak olan Google+ bilinen mobil özellikler dışında,
+Huddle özelliği sayesinde grup halinde chat yapmanıza olanak sağlayacak.&lt;/p&gt;
+
+&lt;p&gt;Google+&amp;lsquo; ın ne zaman açılacağı ise belli değil. Şu an kapalı beta halinde bulunan bu sistem,
+sadece davet yöntemiyle kullanıcı alıyor. Eğer davet alabileceğiniz biri yok ise, resmi çıkış
+tarihine kadar beklemek zorundasınız :(..&lt;/p&gt;
+</content>
+</entry>
+    <entry>
+  <title>maydogan's blog...-110630</title>
+  <link href="http://localhost:4000/006/myblog"/>
+  <updated>2011-06-30T00:00:00+03:00</updated>
+  <id>/006/myblog</id>
+  <content type="html">&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;http://maysite.wordpress.com/&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+</entry>
+    <entry>
+  <title>mysql kullanımı-110623</title>
+  <link href="http://localhost:4000/106/kullan%C4%B1m"/>
+  <updated>2011-06-23T00:00:00+03:00</updated>
+  <id>/106/kullanım</id>
+  <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Mysql' e bağlanmak için uç birimi açıp :&lt;/p&gt;
+
+&lt;p&gt;  &lt;code&gt;$ mysql -u root -p&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;komutu ile root şifresi girildikten sonra mysql' e bağlanılır.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Veritabanı oluşturmak için:&lt;/p&gt;
+
+&lt;p&gt;  &lt;code&gt;mysql&amp;gt; create database foo;&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Sistemde bulunan veritabanlarını görüntülemek için:&lt;/p&gt;
+
+&lt;p&gt;  &lt;code&gt;mysql&amp;gt; show databases;&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;komutu kullanılır. Bu komut çıktısını görsel olarak gösterecek olursak:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://maydogan.me/file/database.png&quot; alt=&quot;1&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Oluşturulan foo veritabanını kullanmak için aşağıdaki komut yazılır:&lt;/p&gt;
+
+&lt;p&gt;  &lt;code&gt;mysql&amp;gt; use foo;&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;foo içerisinde bulunan tabloları görmek için:&lt;/p&gt;
+
+&lt;p&gt;  &lt;code&gt;mysql&amp;gt; show tables;&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;foo'nun içindeki kul tablosu bu şekilde görüntülenecektir:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://maydogan.me/file/table.png&quot; alt=&quot;1&quot; /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;kul tablosunun içeriğini görüntülemek için:&lt;/p&gt;
+
+&lt;p&gt;  &lt;code&gt;mysql&amp;gt; select * from kul;&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;kul tablosunun nasıl tanımlandığını görmek için:&lt;/p&gt;
+
+&lt;p&gt;  &lt;code&gt;mysql&amp;gt; describe kul;&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;kul tablosunu silmek için :&lt;/p&gt;
+
+&lt;p&gt;  &lt;code&gt;mysql&amp;gt; drop table kul;&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;foo veritabanını silmek için:&lt;/p&gt;
+
+&lt;p&gt;  &lt;code&gt;mysql&amp;gt; drop database foo;&lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+</entry>
+    <entry>
+  <title>ubuntu mysql kurulumu-110622</title>
+  <link href="http://localhost:4000/106/kurulum"/>
+  <updated>2011-06-22T00:00:00+03:00</updated>
+  <id>/106/kurulum</id>
+  <content type="html">&lt;h3&gt;Mysql Kurulumu&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Kurulumu başlatmak için uç birimi açıp :&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;code&gt;$ sudo aptitude install mysql-server mysql-client&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;komutu ile gerekli mysql paketleri yükle. Yükleme sonunda root şifresi girilmesi isteniyor.
+Eğer sistemde PHP kullanılıyorsa alttaki komutla PHP için mysql uygulamasını yükle :&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;$ sudo apt-get install php5-mysql&lt;/code&gt;&lt;/p&gt;
+</content>
+</entry>
+    <entry>
+  <title> dostluk üzerine...-110506</title>
+  <link href="http://localhost:4000/005/friend"/>
+  <updated>2011-05-06T00:00:00+03:00</updated>
+  <id>/005/friend</id>
+  <content type="html">&lt;p&gt;Çok sevdiğim bir  dostumla muhabbet ederken  içimden buraya şu satırları yazmak geldi..&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Saate bakmaksızın kapısını çalabileceği bir dostu olmalı insanın&amp;hellip; &quot;Nereden
+çıktın bu vakitte&amp;rdquo; dememeli..Arka bahçede varlığını sezdirmeden, mütemadiyen
+dikilen vefalı bir ağaç gibi köklenmeli hayatında; sen, her daim onun orada
+durduğunu hissetmelisin. ihtiyaç duyduğunda gidip müşfik gövdesine yaslanabilmeli,
+kovuklarına saklanabilmelisin.En mahrem sırlarını verebilmeli, en derin yaralarını
+açıp gösterebilmelisin; gölgesinde serinlemelisin sorgusuz sualsiz&amp;hellip;Onca dalkavuk
+arasında bir tek o, sözünü eğip bükmeden söylemeli, yanlış anlaşılmayacağını bilmeli.
+Alkışlandığında değil sadece, asıl yuhlandığında yanında durup koluna girebilmeli.
+Övmeli alem içinde  ve sen öyle güvenmelisin ki ona, övdüğünde de sövdüğünde de bunun
+iyilikten olduğunu bilmelisin, &amp;ldquo;hak ettim..&amp;rdquo; diyebilmelisin. Teklifsiz kefili olmalı
+hatalarının; günahlarının yegane şahidi&amp;hellip; Seni senden iyi bilen, sana senden çok
+güvenen bir sırdaş&amp;hellip; Gözbebekleri bulutlandığında yaklaşan fırtınayı sezebilmelisin.
+Ve sen ağladığında, onun gözünden gelmeli yaş..&quot;&lt;/p&gt;
+
+&lt;p&gt;Sizce de böyle değil midir dostluk ?&amp;hellip;&lt;/p&gt;
+</content>
+</entry>
+    <entry>
+  <title>ubuntu'da program kaldırmak-110504</title>
+  <link href="http://localhost:4000/105/ubuntu-program-kaldir"/>
+  <updated>2011-05-04T00:00:00+03:00</updated>
+  <id>/105/ubuntu-program-kaldir</id>
+  <content type="html">&lt;p&gt;Ubuntu'da daha önce kurmuş olduğumuz programları  iki şekilde kaldırabilirsiniz.
+Eğer grafik arayüzden kaldırmak istiyorsanız :&lt;/p&gt;
+
+&lt;h4&gt;system &amp;ndash;&gt; administrator &amp;ndash;&gt; synaptic package manager&lt;/h4&gt;
+
+&lt;p&gt;yolu izleyerek yukarıdaki quick search kısmına kaldırılacak program adını yazın.
+Sıralananlardan kaldırmak istediğinizi seçin ve sağ tıklayın. Sağ tıklayınca
+açılan pencerede mark for removal(kaldırmak için işaretle)&amp;lsquo; yi
+seçin. Yapılandırma
+paketlerini de  kaldıracaksanız mark for complete removal(tamamen kaldırmak için
+işaretle yani tüm yapılandırma paketleri ile birlikte kaldırmak)'i seçin.
+İkicisi olarak eğer konsoldan işlem yapmayı seviyorsanız :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo apt-get remove program_adi
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;komutu ile kaldırabilirsiniz.Yapılandırma paketlerini de kaldırmak için :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;sudo apt-get purge
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;komutu yeterlidir&amp;hellip;&lt;/p&gt;
+</content>
+</entry>
+    <entry>
+  <title>nedir bu gimp ?-110504</title>
+  <link href="http://localhost:4000/105/gimp"/>
+  <updated>2011-05-04T00:00:00+03:00</updated>
+  <id>/105/gimp</id>
+  <content type="html">&lt;p&gt;GIMP (GNU Image Manipulation Program), gelişmiş bir resim
+oluşturma ve fotoğraf düzenleme yazılımıdır. Gimp, özgür bir yazılım olup
+ücretsizdir. Adobe Photoshop’a alternatif bir program olmakla beraber başta
+GNU/Linux olmak üzere MS Windows, MAC OS X gibi işletim sistemlerinde de
+çalışabilir ve Türkçe menü desteği ile rahatlıkla kullanılabilir. Gimp’i
+özel kılan şey her açık kaynak yazılımda olduğu gibi ihtiyacımız olan
+eklentileri edinip muhteşem  resim işleme programına sahip olabilmemizdir.
+Gimp’in çok yüksek çözünürlükleri destekleyen CinePaint adlı bir türevi
+de bulunmaktadır.www.gimp.org ya da gimpturkiye.tk linklerinden gerekli
+bilgiler alınabilir. İlgilenenlere…&lt;/p&gt;
+</content>
+</entry>
+    <entry>
+  <title>ubuntu'da google chrome kurulumu-110504</title>
+  <link href="http://localhost:4000/105/chromium"/>
+  <updated>2011-05-04T00:00:00+03:00</updated>
+  <id>/105/chromium</id>
+  <content type="html">&lt;p&gt;Google Chrome, Firefox'un yerini alamaz ama ikinci bir tarayıcıya ihtiyaç
+duyulduğunda Chromium tercih edebilebilir.Uç birimi açıp verilen komutlar doğrultusunda kurabiliriz.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    sudo gedit /etc/apt/sources.list
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Aşağıdaki satırı kaynak listesinin sonuna ekle :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    # Ubuntu Chromium
+    # sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com 4E5E17B5
+    # sudo apt-get install chromium-browser
+    deb http://ppa.launchpad.net/chromium-daily/ppa/ubuntu karmic main
+    deb-src http://ppa.launchpad.net/chromium-daily/ppa/ubuntu karmic main
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Sistem Ubuntu 9.10 ise satırlar yukarıdaki gibi kalsın.
+Değilse “karmic” kısmını uygun şekilde düzenle. Kaydet ve kapat.&lt;/p&gt;
+
+&lt;p&gt;İlgili GPG anahtarını almak için gerekli komut :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    sudo apt-key adv --recv-keys --keyserver keyserver.ubuntu.com 4E5E17B5
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Anahtarı aldıktan sonra kaynak listesini güncelle :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    sudo apt-get update
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Son adım olarak Chrome’u kurmak için gerekli komut :&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;    sudo apt-get install chromium-browser
+&lt;/code&gt;&lt;/pre&gt;
+</content>
+</entry>
+    <!-- Index end -->
+
+</feed>

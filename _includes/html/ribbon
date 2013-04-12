@@ -1,5 +1,6 @@
-{% unless site.param.ribbon == null %}
+{% unless site.ribbon == null %}<!-- Ribbon start -->
 <div class="ribbon">
-  <a href="http://github.com/{{ site.account }}/{{ site.repository }}" rel="me" alt="{{ site.param.ribbon }}">{{ site.param.ribbon }}</a>
+  <a href="http://github.com/{{ site.account }}/{{ site.repository }}" rel="me" alt="{{ site.ribbon }}">{{ site.ribbon }}</a>
 </div>
-{% endunless %}
+<!-- Ribbon end -->
+{% endunless -%}

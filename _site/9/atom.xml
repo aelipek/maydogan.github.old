@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+<!-- Index start -->
+<title>Kısa Notlar</title>
+<link href="http://localhost:4000//9/atom.xml" rel="self"/>
+<link href="http://localhost:4000/"/>
+<updated>2013-04-11T14:56:10+03:00</updated>
+<id>http://localhost:4000/9/</id>
+<author>
+  <name>Meltem AYDOĞAN</name>
+  <email>meltem.aydogan@bil.omu.edu.tr</email>
+</author>
+
+  <entry>
+  <title>birisine..-130407</title>
+  <link href="http://localhost:4000/904/birisine"/>
+  <updated>2013-04-07T00:00:00+03:00</updated>
+  <id>/904/birisine</id>
+  <content type="html">&lt;p&gt;Kendini gereğinden fazla önemli zanneden birisine. Aptallıklarına tahammül edeni bulduğunda kendini akıllı zanneden birisine. Ağzından çıkan patavatsız sözlere Dürüstlük sıfatını yakıştıran birisine. İnsanın yüzüne söyleyemediklerini de kapalı kapılar ardında söyleyen birisine. Şahsi menfaatini Seni Seviyorum sözcükleriyle süsleyen birisine. &amp;ldquo;Gitmeyi bilmek&amp;rdquo; erdemini yaşamaktansa &amp;ldquo;Hayatından çıkardığını sanmak&amp;rdquo; şımarıklığını beceri sayan zavallı birisine. Söyleyecek tek söz &amp;ldquo;O dağa bir kuş kondu, sonra da uçup gitti.  Bak da gör, o dağda ne bir fazlalık var ne bir eksilme..&amp;rdquo; G. Kayhan&lt;/p&gt;
+</content>
+</entry>
+    <!-- Index end -->
+
+</feed>

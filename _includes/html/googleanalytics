@@ -1,9 +1,9 @@
-{% unless site.param.googleanalyticsid == null %}
-<!-- Google Analytics start -->
+{% unless site.googleanalyticsid == null %}<!-- Google Analytics start -->
 <script type="text/javascript">
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', '{{ site.param.googleanalyticsid }}']);
-  _gaq.push(['_trackPageview']);
+  _gaq.push(['_setAccount', '{{ site.googleanalyticsid }}']);
+{% unless site.domain == null %}_gaq.push(['_setDomainName', '{{ site.domain }}']);
+{% endunless -%}_gaq.push(['_trackPageview']);
 
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -12,4 +12,4 @@
   })();
 </script>
 <!-- Google Analytics end -->
-{% endunless %}
+{% endunless -%}

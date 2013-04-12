@@ -1,4 +1,19 @@
 ---
-layout: site-front
+layout: frame
 ---
-{{ content }}
+
+<div class="site" id="front">
+  <div class="title">
+    {% include html/navigator %}
+  </div>
+
+  {{ content }}
+
+  <div class="footer">
+    {% include html/contact %}
+    {% include html/feedurl %}
+  </div>
+</div>
+
+{% include html/ribbon %}
+</body>
