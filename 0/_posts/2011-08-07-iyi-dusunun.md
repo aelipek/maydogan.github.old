@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bunları Iyi Düşünün...
+title: 'Bunları İyi Düşünün...'
 --
 Bu yılınızı iyi geçirdiniz mi?
 
