@@ -1,6 +1,10 @@
 ---
 layout: post
-title: Bunları Iyi Düşünün...
+<<<<<<< HEAD
+title: Bunları İyi Düşünün...
+=======
+title: 'Bunları İyi Düşünün...'
+>>>>>>> 8b0bf7bb0132fda0dd1bbdfb3e084b36bd47ea11
 --
 Bu yılınızı iyi geçirdiniz mi?
 
