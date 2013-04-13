@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Php Cookies
+title: Php cookies
 ---
 Cookie(çerez), gerektiğinde kullanılması için client tarafından
 oluşturulan  dosyadır. Oluşturduğumuz bu dosya içinde kullanıcı bilgileri, kullanıcının tercihleri gibi tanımlayıcı bilgiler saklayabiliriz. Cookieler HTML kod içine gömülüdür ve server-client arasinda gidip gelirler. Client'imiz web tarayıcımızdır. Server ise web sayfasının bulunduğu makinede çalışan programdır. Cookieler kişiye özel web sayfası yapmak, biz internette gezinirken veri kaydetmek, istatistik tutmak gibi işlerde kullanılır. Örneğin, sitemizde birkaç çeşit tema kullanıyorsak, bu temaları cookiede tutulan tek bir değer ile değiştirebiliriz. Cookieler ile ilgili yapılan temel işlemler; Oluşturma, değer atama, değer okuma, değerini değiştirme ve silme şeklindedir.

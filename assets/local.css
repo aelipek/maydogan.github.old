@@ -9,8 +9,8 @@ layout: nil
  */
 
 body {
-  background-color: none;
-  background-image:url('../assets/background/noisy_net.png')
+  background-color: #2F4F4F;
+  background-image:none;
 }
 
 .site {
