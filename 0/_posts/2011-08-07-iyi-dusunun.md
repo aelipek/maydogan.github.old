@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Bunları İyi Düşünün...
---
+---
+
 Bu yılınızı iyi geçirdiniz mi?
 
 Sağlıklı olduğunuz için hiç sevindiniz mi?
